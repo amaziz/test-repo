@@ -6,9 +6,6 @@ This is a test repo
 ### Tertiary heading
 
 
-
-
-
 Below is an unordered list:
 * Item 1
 * Item 2
